@@ -1,0 +1,7 @@
+streamlit>=1.40
+duckdb
+pandas
+pyarrow
+datasets
+huggingface_hub
+google-genai
